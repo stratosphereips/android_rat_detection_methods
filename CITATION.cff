@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: >-
+  Android RAT Detection Methods
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - given-names: Kamila
+    family-names: Babayeva
+    email: babaykam@fel.cvut.cz
+    affiliation: >-
+      Stratosphere Laboratory, AIC, FEL, Czech
+      Technical University in Prague
